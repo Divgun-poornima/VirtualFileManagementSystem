@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.vfms.Main",
+            "projectName": "VirtualFileManagementSystem_8bd0d8bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Virtual File Management System",
+            "request": "launch",
+            "mainClass": "com.vfms.Main",
+            "projectName": "VirtualFileManagementSystem"
+        }
+    ]
+}
+

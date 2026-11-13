@@ -1,0 +1,22 @@
+# Compiled class files
+bin/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Personal database credentials
+resources/db.properties
+
+# IDE specific files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+

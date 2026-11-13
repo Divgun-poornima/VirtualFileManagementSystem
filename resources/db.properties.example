@@ -1,0 +1,17 @@
+# ============================================================
+# Virtual File Management System - Database Configuration
+# ============================================================
+# Copy this file to 'db.properties' in this folder or edit db.properties directly.
+# You can also configure this interactively from within the application GUI!
+
+db.host=localhost
+db.port=3306
+db.name=virtual_file_system
+db.user=root
+db.password=
+
+# Connection pool / parameters
+db.useSSL=false
+db.allowPublicKeyRetrieval=true
+db.serverTimezone=UTC
+
